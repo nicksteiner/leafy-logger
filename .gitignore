@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# folder for platformio
+.platformio
+
+# folder for vscode
+.vscode
